@@ -1,0 +1,43 @@
+/* add your CSS here */
+
+
+
+.fact {
+      font-style: italic;
+}
+
+.border {
+      border: solid;
+      border-color: Gainsboro;
+      border-width: thin;
+      padding: 10px;
+      width: 300px;
+      box-shadow: 10px 10px 0px 1px Gainsboro;
+}
+
+h3 {
+    padding: 5px;
+}
+
+span {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    border: 10px;
+    padding-bottom: 10px;
+}
+
+.borderbelow {
+     border: solid;
+     border-color: Gainsboro;
+     border-width: thin;
+     padding: 10px;
+     width: 280px;
+}
